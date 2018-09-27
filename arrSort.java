@@ -2,7 +2,7 @@ package com;
 
 import java.util.Arrays;
 
-public class test {
+public class arrSort {
 
     public static void main(String[] args) {
         int arr[] = {5,4,6,8,9,1,2,7,3,8,9,12};
